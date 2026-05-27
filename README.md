@@ -87,8 +87,17 @@ MedTrack/
 ## Group Members
 
 - Irish Yszha G. Merca
+  ```bash
+  https://github.com/yeszhaya
+  ```
 - Mira B. Maximo
+  ```bash
+  https://github.com/raxy-m
+  ```
 - Jamella B. Gaton
+  ```bash
+  https://github.com/jamellagaton563-cell
+  ```
 
 ---
 
