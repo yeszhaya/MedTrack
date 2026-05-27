@@ -6,7 +6,7 @@ MedTrack is a standalone console-based medication reminder system developed usin
 
 The application allows users to:
 
-- Add and manage medicine schedules, including medicine name, dosage, and intake time.
+- Add and manage medicine schedules, including medicine name, dosage, and intake time. Users can also remove existing records.
 - View all saved medication records in a formatted console display.
 - Check due medications and receive reminder notifications based on the current system time.
 - Store medication records using local CSV file handling for persistent data storage across sessions.
