@@ -1,4 +1,4 @@
-# Medicine Tracker: Personal Medication Reminder System
+# MedTrack: Personal Medication Reminder System
 
 ## Application Description
 
