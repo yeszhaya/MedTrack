@@ -54,13 +54,13 @@ MedTrack/
 ├── mymeds_history.csv
 └── README.md
 
-## How to Run
+How to Run
 
-### Requirements
+Requirements
 
 - Python 3.x installed on the machine
 
-### Steps to Run
+Steps to Run
 
 1. Clone this repository:
 git clone https://github.com/yeszhaya/MedTrack.git
@@ -70,17 +70,17 @@ cd MedTrack
 python MedTrack.py
 4. Follow the on-screen menu prompts to manage medication schedules.
 
-## Group Members
+Group Members
 
 - Irish Yszha G. Merca
 - Mira B. Maximo
 - Jamella G. Gaton
 
-## Academic Information
+Academic Information
 
 In partial fulfillment of the requirements for the subject CC103 – Computer Programming 2 under the Bachelor of Science in Information Technology program at Sorsogon State University – Bulan Campus.
 
-## Notes
+Notes
 
 - The application operates entirely offline.
 - Data is automatically saved in mymeds_history.csv.
