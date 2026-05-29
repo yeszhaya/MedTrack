@@ -49,10 +49,48 @@ This project demonstrates core Object-Oriented Programming principles:
 
 ```text
 MedTrack/
+
 │
-├── MedTrack.py
-├── mymeds_history.csv
-└── README.md
+
+├── interfaces/
+
+│   ├── __init__.py
+
+│   ├── IInputSource.py
+
+│   ├── IDataSaver.py
+
+│   └── INotifier.py
+
+│
+
+├── models/
+
+│   ├── __init__.py
+
+│   └── Medicine.py
+
+│
+
+├── services/
+
+│   ├── __init__.py
+
+│   ├── ConsoleInput.py
+
+│   ├── ConsoleNotifier.py
+
+│   ├── CsvDataSaver.py
+
+│   └── Scheduler.py
+
+│
+
+├── main.py
+
+├── README.md
+
+└── mymeds_history.csv
 ```
 
 ---
@@ -77,7 +115,7 @@ MedTrack/
 
 3. Run the application:
    ```bash
-   python MedTrack.py
+   python main.py
    ```
 
 4. Follow the on-screen menu prompts to manage medication schedules.
@@ -87,14 +125,17 @@ MedTrack/
 ## Group Members
 
 - Irish Yszha G. Merca
+  GitHub Profile:
   ```bash
   https://github.com/yeszhaya
   ```
 - Mira B. Maximo
+  GitHub Profile:
   ```bash
   https://github.com/raxy-m
   ```
 - Jamella B. Gaton
+  GitHub Profile:
   ```bash
   https://github.com/jamellagaton563-cell
   ```
