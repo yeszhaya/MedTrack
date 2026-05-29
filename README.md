@@ -125,17 +125,14 @@ MedTrack/
 ## Group Members
 
 - Irish Yszha G. Merca
-  GitHub Profile:
   ```bash
   https://github.com/yeszhaya
   ```
 - Mira B. Maximo
-  GitHub Profile:
   ```bash
   https://github.com/raxy-m
   ```
 - Jamella B. Gaton
-  GitHub Profile:
   ```bash
   https://github.com/jamellagaton563-cell
   ```
